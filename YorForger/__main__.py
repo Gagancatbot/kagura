@@ -89,8 +89,8 @@ HELP_MSG = "Click the button below to get help menu in your pm."
 START_MSG = "I'm Working Out!\n<b>Haven't stopped since:</b> <code>{}</code>"
 START_IMG = "https://telegra.ph/file/af0931a6fa8ec665caa65.jpg"
     
-PM_START_TEXT = """
-────「 [{}](https://telegra.ph/file/871f52a6198ade88a7f3b.mp4) 」────
+PM_START_TEXT = https://te.legra.ph/file/1fd6f767c412978d00979.mp4
+
 Konichiwa `{}`.
 *An Anime Based Bot Working Under* [【V๏ɪ፝֟𝔡】 ✧Network✧](https://t.me/voidxnetwork)
 ┏━━━━━━━━━━━━━━━━━━━━
