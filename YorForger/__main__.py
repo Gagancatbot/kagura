@@ -113,7 +113,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="×Support×", url=f"https://t.me/kitaxsupport"),                    
+            text="×Support×", url=f"https://t.me/Nino_probot,           
         InlineKeyboardButton(
             text="×Updates×",  url=f"https://t.me/kitaxupdates"
         ),
